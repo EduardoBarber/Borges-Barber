@@ -42,7 +42,7 @@ body {
   padding: 30px 5%;
   display: flex;
   justify-content: space-evenly;
-  background: url("/src/background-hero.jpg");
+  background: url("src/background-hero.jpg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
