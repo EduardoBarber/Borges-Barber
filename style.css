@@ -64,11 +64,11 @@ body {
   font-size: 64px;
   max-width: 20ch;
   font-weight: 500;
-  color: #000;
+  color: #fff;
 }
 
 .main-text p {
-  color: #000;
+  color: #fff;
   font-weight: 300;
   max-width: 70ch;
   line-height: 30px;
